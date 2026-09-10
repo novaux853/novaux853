@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm novaux853 👋
 
-<!--
-**novaux853/novaux853** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS undergrad based in Sydney. Mostly writing C++ and Java for uni assignments, building small Python automation tools, and breaking my Linux install.
 
-Here are some ideas to get you started:
+#### What I'm up to
+- Studying operating systems, data structures, and low-level programming
+- Building small CLI tools and backend experiments
+- Figuring out modern C++ memory models
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tooling
+- **Languages:** C++, Python, Java, Bash
+- **Environment:** Linux, Git, Neovim, Make
+
+#### Reach out
+- Discord: `@novaux`
+- Email: `novaux853@proton.me`
